@@ -1,0 +1,44 @@
+array == vetor
+
+como colocar 4 notas
+
+
+quando uso array preciso usar []
+
+
+
+
+
+.length (Comprimento, quantidade de itens dentro do array)
+(Quantos itens tem no vetor, qual a posição, e por onde)
+
+
+
+bloco do meio do for, condição pro laço executar
+
+
+
+
+
+
+
+parse.Double (Transforma String em double)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for em array
+
+
+

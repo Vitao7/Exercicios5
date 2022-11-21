@@ -1,0 +1,5 @@
+package
+
+classe x objeto
+tudo que ta no objeto tem que ser declarodo na classe 
+args java

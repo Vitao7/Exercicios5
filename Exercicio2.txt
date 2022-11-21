@@ -1,0 +1,10 @@
+ Encontrar repetições de valores
+Escreva um programa que receba diversos números inteiros como argumentos de entrada. O programa deve imprimir todos os números que aparecem mais de uma vez entre os argumentos de entrada, e quantas vezes cada um deles foi repetido.
+
+Exemplo
+
+Os números de entrada foram: 1, 6, 9, 3, 5, 6, 9, 1, 3 e 1.
+O números repetidos foram:
+- 1: repetido 3 vezes.
+- 3: repetido 2 vezes.
+- 6: repetido 2 vezes. 
